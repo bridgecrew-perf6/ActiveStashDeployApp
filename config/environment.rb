@@ -8,3 +8,4 @@ load(app_test) if File.exist?(app_test)
 
 # Initialize the Rails application.
 Rails.application.initialize!
+####
